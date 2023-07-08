@@ -1,4 +1,5 @@
-// Dado el siguiente Array, ordenar las empresas con más ventas de mayor a menor y mostrar el resultado en un Array con el nombre de la empresa y el total (Ver línea 313: Resultado esperado )
+// Dado el siguiente Array, ordenar las empresas con más ventas de mayor a menor y
+// mostrar el resultado en un Array con el nombre de la empresa y el total (Ver línea 313: Resultado esperado )
 
 const data = [
     {
